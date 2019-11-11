@@ -1,0 +1,13 @@
+<configs>
+
+    <append xpath="/recipes">
+
+
+<recipe name="meleeToolPaintToolZ" count="1" tags="perkArchery">
+	<ingredient name="resourceWood" count="5"/>
+	<ingredient name="resourceYuccaFibers" count="10"/>
+</recipe>
+
+
+    </append>
+</configs>

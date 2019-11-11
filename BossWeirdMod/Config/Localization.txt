@@ -1,0 +1,5 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+
+
+meleeToolPaintToolZ,items,Tools,New,"Pain Brush of Death",,,,,
+meleeToolPaintToolBMDesc,items,Tools,New,"This Pain Brush Will Kill Zombies But WHY?",,,,,
