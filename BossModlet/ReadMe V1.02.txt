@@ -1,4 +1,4 @@
-This is V1.06 of Boss Mod.
+This is V1.02 of Boss Mod.
 
 Open your 7 days folder. Make sure there is No Mods folder in it. If there is delet it, and drage and drop my Mods folder in.
 That easy. Enjoy.

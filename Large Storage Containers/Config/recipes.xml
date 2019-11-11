@@ -1,0 +1,27 @@
+<configs>
+	<append xpath="/recipes">
+
+		<recipe name="Large_Secure_Storage_Chest" count="1" craft_area="tablesaw">
+			<ingredient name="resourceWood" count="100"/>
+			<ingredient name="resourceNail" count="40"/>
+		</recipe>
+
+		<recipe name="Large_Secure_Storage_Box" count="1" craft_area="tablesaw">
+			<ingredient name="resourceNail" count="40"/>
+			<ingredient name="resourceWood" count="100"/>
+		</recipe>	
+			
+		<recipe name="Large_Secure_Wall_Safe" count="1" craft_area="workbench">
+			<ingredient name="resourceForgedSteel" count="20"/>
+			<ingredient name="resourceSpring" count="8"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+
+		<recipe name="Large_Secure_Gun_Safe" count="1" craft_area="workbench">
+			<ingredient name="resourceForgedSteel" count="20"/>
+			<ingredient name="resourceSpring" count="8"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+
+	</append>
+</configs>

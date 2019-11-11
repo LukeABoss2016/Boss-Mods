@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Large Storage Containers" />
+		<Description value="Adds a large storage chest, a large storage crate and a large gun safe" />
+		<Author value="Sinz / Sol" />
+		<Version value="1" />
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>

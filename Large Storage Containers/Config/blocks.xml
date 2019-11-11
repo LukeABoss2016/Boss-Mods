@@ -1,0 +1,57 @@
+<configs>
+	<append xpath="/blocks">
+
+		<block name="Large_Storage_Chest">
+			<property name="Extends" value="cntChest01"/>
+			<property name="CustomIcon" value="cntChest01"/>
+			<property name="LootList" value="251"/>
+		</block>
+
+		<block name="Large_Secure_Storage_Chest">
+			<property name="Extends" value="cntSecureStorageChest"/>
+			<property name="CustomIcon" value="cntChest01"/>
+			<property name="LootList" value="251"/>
+			<property name="DowngradeBlock" value="Large_Storage_Chest"/>
+		</block>
+		
+		<block name="Large_Secure_Storage_Box">
+			<property name="Extends" value="cntStorageGenericInsecure"/>
+			<property name="CustomIcon" value="cntStorageGeneric"/>
+			<property name="LootList" value="251"/>
+			<property name="DowngradeBlock" value="Large_Storage_Box"/>
+		</block>
+
+		<block name="Large_Storage_Box">
+			<property name="Extends" value="cntStorageGeneric"/>
+			<property name="CustomIcon" value="cntStorageGeneric"/>
+			<property name="LootList" value="251"/>
+		</block>
+		
+		<block name="Large_Secure_Wall_Safe">
+			<property name="Extends" value="cntWallSafe"/>
+			<property name="CustomIcon" value="cntWallSafe"/>
+			<property name="LootList" value="252"/>
+			<property name="DowngradeBlock" value="Large_Wall_Safe"/>
+		</block>
+
+		<block name="Large_Wall_Safe">
+			<property name="Extends" value="cntWallSafeInsecure"/>
+			<property name="CustomIcon" value="cntWallSafe"/>
+			<property name="LootList" value="252"/>
+		</block>
+		
+		<block name="Large_Secure_Gun_Safe">
+			<property name="Extends" value="cntGunSafe"/>
+			<property name="CustomIcon" value="cntGunSafe"/>
+			<property name="LootList" value="252"/>
+			<property name="DowngradeBlock" value="Large_Gun_Safe"/>
+		</block>
+
+		<block name="Large_Gun_Safe">
+			<property name="Extends" value="cntGunSafeInsecure"/>
+			<property name="CustomIcon" value="cntGunSafe"/>
+			<property name="LootList" value="252"/>
+		</block>
+
+	</append>
+</configs>

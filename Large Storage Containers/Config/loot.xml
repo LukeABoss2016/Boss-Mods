@@ -1,0 +1,15 @@
+<configs>
+	<append xpath="/lootcontainers">
+
+		<lootcontainer id="251" count="0" size="14,10" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" loot_quality_template="baseTemplate">
+			<item name="cobweb" count="1,2"/>
+		</lootcontainer>
+		
+		<lootcontainer id="252" count="0" size="14,10" sound_open="UseActions/open_safe" sound_close="UseActions/close_safe" loot_quality_template="baseTemplate">
+			<item name="cobweb" count="1,2"/>
+		</lootcontainer>
+		
+	</append>
+	
+	<set xpath="/lootcontainers/lootcontainer[@id='4']/@size">14,10</set>
+</configs>
