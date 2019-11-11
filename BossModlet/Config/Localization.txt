@@ -1,0 +1,58 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+
+meleeToolBossBadAssAxeBM,items,Tools,New,"Boss's Bad Ass Axe",,,,,
+meleeToolBossBadAssAxeBMDesc,items,Tools,New,"This Tool will allow you to play 7Days To Die Like A Boss.",,,,,
+
+meleeClubBossBadAssClubBM,items,Tools,New,"Boss's Bad Ass Club",,,,,
+meleeClubBossBadAssClubBMDesc,items,Tools,New,"This Club will allow you to one shot Like A Boss.",,,,,
+
+meleeToolBossWrenchBM,items,Tools,New,"Boss's Bad Ass Wrench",,,,,,
+meleeToolBossWrenchBMDesc,items,Tools,New,"This Wrench will allow you to take things a part Like A Boss.",,,,,
+
+medicalFirstAidKitAllowCreamBM,items,medicalBandage,new,"Boss's Allow Cream",,,,,
+medicalFirstAidKitAllowCreamBMDesc,items,medicalBandage,new,"You ever feel dry,sick,hurt? Try Allow Cream!",,,,,
+
+gunBowPrimitiveBossBasAssBowBM,items,Tools,New,"Boss's Bad Ass Bow. Is this bow any better?",,,,,,
+gunBowPrimitiveBossBasAssBowBMDesc,items,Tools,New,"Do you like to make arrow? This bow is for you.",,,,,,
+
+meleeToolKnifeCandyFernsBadAssKnifeBM,items,Tools,New,"Ferns Bad Ass Knife.",,,,,,
+meleeToolKnifeCandyFernsBadAssKnifeBMDesc,items,Tools,New,"This Knife is OP as Balz and that is how Fern likes it so PISS OFF!",,,,,,
+
+ammo762mmBulletBallBoss50CalBM,items,Tools,New,"Boss 50 Cal.",,,,,,
+ammo762mmBulletBallBoss50CalBMDesc,items,Tools,New,"This ammo goes in the 50Cal.",,,,,,
+
+gunMR10Boss50CalBM,items,Tools,New,"Boss Bad Ass 50Cal.",,,,,,
+gunMR10Boss50CalBMBMDesc,items,Tools,New,"This Bad Ass 50Cal. Will take out any Zed. Only use 50Cal Ammo.",,,,,,
+
+gunJunkTurretBM,items,Tools,New,"Boss's Bad Ass JunkTurret.",,,,,,
+gunJunkTurretBMDesc,items,Tools,New,"This Bad Ass JunkTurret holds way more ammo. Other than that it is pretty vanilla.",,,,,,
+
+gunPistol44MagBM,items,Tools,New,"Boss's Bad Ass 44Mag.",,,,,,
+gunPistol44MagBMDesc,items,Tools,New,"Works like the revolver, But holds way more ammo and packs just a bit more punch.",,,,,,
+
+gunBlunderbussBM,items,Tools,New,"The Corn Gun",,,,,,
+gunBlunderbussBMDesc,items,Tools,New,"This Gun was made for my friends CornFed_Gaming and Mikoyzkee just for the love of Corn!",,,,,,
+
+ammoBlunderbussBM,items,Tools,New,"Corn Gun Ammo",,,,,,
+ammoBlunderbussBMDesc,items,Tools,New,"Brass Who Needs It. Just use Corn",,,,,,
+
+armorIronBootsBM,items,Tools,New,"Boss's Bad Ass Boots.",,,,,,
+armorIronBootsBMDesc,items,Tools,New,"Kick Ass Boots",,,,,,
+
+armorIronGlovesBM,items,Tools,New,"Boss's Bad Ass Gloves.",,,,,,
+armorIronGlovesBMDesc,items,Tools,New,"Great Armor.",,,,,,
+
+armorIronHelmetBM,items,Tools,New,"Boss's Bad Ass Helmet.",,,,,,
+armorIronHelmetBMDesc,items,Tools,New,"Fight like a boss.",,,,,,
+
+armorIronChestBM,items,Tools,New,"Boss's Bad Ass Chest Plate.",,,,,,
+armorIronChestBMDesc,items,Tools,New,"Holy Balz this is great armor.",,,,,,
+
+armorIronLegsBM,items,Tools,New,"Boss's Bad Ass Leg Armor.",,,,,,
+armorIronLegsBMDesc,items,Tools,New,"Run Fight Live.",,,,,,
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+<configs>
+
+
+	<append xpath="/recipes">
+	
+<recipe name="meleeClubBossBadAssClubBM" count="1" tags="perkPummelPete"> <!-- this tag corresponds to <passive_effect name="CraftingTier" operation="base_add" level="2,5" value="1,4" tags="perkPummelPete"/> in progression -->
+	<ingredient name="resourceForgedSteel" count="2"/>
+	<ingredient name="resourceWood" count="25"/>
+	<ingredient name="resourceNail" count="25"/>
+	<ingredient name="resourceLeather" count="5"/>
+	<ingredient name="resourceDuctTape" count="8"/>
+</recipe>
+	
+	<recipe name="meleeToolBossWrenchBM" count="1" tags="perkMiner69r">
+	<ingredient name="resourceForgedSteel" count="6"/>
+	<ingredient name="resourceLeather" count="2"/>
+	<ingredient name="resourceWood" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="6"/>
+	</recipe>
+	
+	<recipe name="medicalFirstAidKitAllowCreamBM" count="3">
+	<ingredient name="resourceAnimalFat" count="11"/>
+	<ingredient name="resourceCloth" count="4"/>
+	<ingredient name="resourceYuccaFibers" count="10"/>
+	<ingredient name="medicalAloeCream" count="10"/>	
+</recipe>
+
+<recipe name="meleeToolBossBadAssAxeBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="25"/>
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceDuctTape" count="10"/>
+	<ingredient name="resourceWood" count="10"/>
+</recipe>	
+
+
+<recipe name="gunBowPrimitiveBossBasAssBowBM" count="1" tags="perkArchery">
+	<ingredient name="resourceWood" count="21"/>
+	<ingredient name="resourceYuccaFibers" count="44"/>
+</recipe>
+
+<recipe name="gunMR10Boss50CalBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceSpring" count="4"/>
+</recipe>	
+
+<recipe name="ammo762mmBulletBallBoss50CalBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceBulletTip" count="10"/>
+	<ingredient name="resourceGunPowder" count="10"/>
+	<ingredient name="resourceBulletCasing" count="4"/>
+</recipe>
+
+<recipe name="gunPistol44MagBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceDuctTape" count="3"/>
+	<ingredient name="resourceWood" count="5"/>
+	<ingredient name="resourceSpring" count="4"/>
+</recipe>	
+
+
+<recipe name="gunJunkTurretBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="2"/>
+	<ingredient name="resourceScrapIron" count="100"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="4"/>
+</recipe>	
+
+<recipe name="gunToolNailgunBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+	<ingredient name="resourceDuctTape" count="7"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceSpring" count="7"/>
+</recipe>
+
+
+
+<recipe name="ammoBlunderbussBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceGunPowder" count="1"/>
+	<ingredient name="foodCropCorn" count="1"/>
+</recipe>
+
+
+<recipe name="gunBlunderbussBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceDuctTape" count="3"/>
+	<ingredient name="resourceWood" count="5"/>
+	<ingredient name="resourceSpring" count="6"/>
+</recipe>	
+
+
+
+<recipe name="armorIronBootsBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceCropGoldenrodPlant" count="55"/>
+	<ingredient name="resourceForgedIron" count="11"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+	<ingredient name="resourceSpring" count="6"/>
+</recipe>	
+
+
+
+<recipe name="armorIronLegsBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceCropGoldenrodPlant" count="55"/>
+	<ingredient name="resourceForgedIron" count="15"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceSpring" count="4"/>
+</recipe>	
+
+
+
+<recipe name="armorIronChestBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceCropGoldenrodPlant" count="55"/>
+	<ingredient name="resourceForgedIron" count="22"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceSpring" count="3"/>
+</recipe>	
+
+
+
+<recipe name="armorIronHelmetBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceCropGoldenrodPlant" count="55"/>
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="2"/>
+	<ingredient name="resourceSpring" count="2"/>
+</recipe>	
+
+
+
+<recipe name="armorIronGlovesBM" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceCropGoldenrodPlant" count="55"/>
+	<ingredient name="resourceForgedIron" count="6"/>
+	<ingredient name="resourceScrapPolymers" count="6"/>
+	<ingredient name="resourceSpring" count="2"/>
+</recipe>	
+
+
+
+
+
+
+	</append>
+</configs>

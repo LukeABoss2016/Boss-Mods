@@ -1,0 +1,50 @@
+
+<configs>
+	<append xpath="/items_modifier">
+
+
+
+
+
+
+
+
+	<item_modifier name="modArmorHelmetLightBM" installable_tags="head" blocked_tags="clothing" modifier_tags="misc,modArmorHelmetLight" type="attachment">
+		<property name="UnlockedBy" value="modArmorHelmetLightSchematic,perkArtOfMiningLantern"/>
+		<property name="Stacknumber" value="1"/> <property name="Group" value="Mods"/>
+		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Msteel"/>
+		<property name="LightValue" value="0.7"/>
+		<effect_group tiered="false">
+			<triggered_effect trigger="onSelfEquipStart" action="AddPart" part="HeadLight" prefab="Entities/Lighting/miningHelmetLightSource" parentTransform="Spotlight" localPos="0,0,0" localRot="90,0,0"/>
+			<triggered_effect trigger="onSelfEquipStart" action="AddPart" part="HeadLightCam" prefab="Entities/Lighting/miningHelmetLightSource" parentTransform="CameraNode" localPos="0,0,0" localRot="-90,0,0"/>
+			<triggered_effect trigger="onSelfEquipStop" action="RemovePart" part="HeadLight"/>
+			<triggered_effect trigger="onSelfEquipStop" action="RemovePart" part="HeadLightCam"/>
+			<triggered_effect trigger="onSelfItemActivate" action="SetPartActive" part="HeadLight" active="@!.IsFPV"/>
+			<triggered_effect trigger="onSelfItemActivate" action="SetPartActive" part="HeadLightCam" active="@.IsFPV"/>
+			<triggered_effect trigger="onSelfItemDeactivate" action="SetPartActive" part="HeadLight" active="false"/>
+			<triggered_effect trigger="onSelfItemDeactivate" action="SetPartActive" part="HeadLightCam" active="false"/>
+		</effect_group>
+	</item_modifier>
+<!-- Clothing mods = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = -->
+	<item_modifier name="modClothingStoragePocket" installable_tags="pocketMod" modifier_tags="carryweight" type="attachment">
+		<property name="UnlockedBy" value="bookNeedleAndThreadPockets"/>
+		<property name="DisplayType" value="modCarryCapacity"/>
+		<property name="Material" value="Mleather"/>
+		<property name="Stacknumber" value="1"/> <property name="Group" value="Mods"/>
+		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+
+		<effect_group tiered="false">
+			<passive_effect name="CarryCapacity" operation="base_add" value="1"/>
+			<display_value name="dCarryCapacity" value="1"/>
+		</effect_group>
+	</item_modifier>
+	
+	
+	
+	
+	 </append>
+ </configs>
+
+	
+	

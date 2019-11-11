@@ -1,0 +1,33 @@
+<configs>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='workingStiffs']">
+	<item name="meleeToolKnifeCandyFernsBadAssKnifeBM" prob="0.5" />
+	<item name="ammo762mmBulletBallBoss50CalBM" count="5,25" prob="4" />
+	<item name="medicalFirstAidKitAllowCreamBM" count="1,5" prob="0.5" />
+	<item name="meleeToolBossBadAssAxeBM" prob="0.5" />
+	<item name="meleeClubBossBadAssClubBM" prob="0.5" />
+	<item name="meleeToolBossWrenchBM" prob="0.3" />
+	<item name="gunBowPrimitiveBossBasAssBowBM" prob="0.5" />
+	<item name="gunMR10Boss50CalBM" prob="0.3" />
+	<item name="gunJunkTurretBM" prob="0.7" />
+	<item name="gunToolNailgunBM" prob="0.5" />
+	<item name="ammoBlunderbussBM" count="10,55" prob="3" />
+	<item name="armorIronBootsBM" prob="0.1" />
+	<item name="armorIronLegsBM" prob="0.1" />
+	<item name="armorIronChestBM" prob="0.1" />
+	<item name="armorIronHelmetBM" prob="0.1" />
+	<item name="armorIronGlovesBM" prob="0.1" />
+	
+	
+	
+	
+	
+</append>
+
+
+
+
+
+</configs>
