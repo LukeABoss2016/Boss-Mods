@@ -1,4 +1,4 @@
-This is V1.06 of BossModLet.
+This is V1.06 of BossModLetPack.
 
 Open your 7 days folder. Make sure there is No Mods folder in it. If there is delet it, and drage and drop my Mods folder in.
 That easy. Enjoy.
